@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sanjay Nithyanantham</h1>
+
 🎓 About Me:
 I hold a Masters's degree in Artificial Intelligence, where I delved into the fascinating world of AI and honed my skills in machine learning, natural language processing, and computer vision.
+
 
 💻 Data Visualization Enthusiast:
 One of my true passions is data visualization. I'm proficient in Python and love transforming raw data into beautiful and insightful visualizations. From interactive plots to compelling dashboards,
