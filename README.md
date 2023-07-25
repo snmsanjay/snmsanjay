@@ -1,10 +1,10 @@
-👋 Hello there! Welcome to my GitHub profile! 👋
+👋 Hello there!I'm Sanjay Nithyanantham ,Welcome to my GitHub profile! 👋
 
 🎓 About Me:
-I hold a Masters's degree in Artificial Intelligence, where I delved into the fascinating world of AI and honed my skills in machine learning, natural language processing, and computer vision. Additionally, I have a strong foundation in Electronics and Instrumentation Engineering, which has given me a unique perspective on solving complex problems.
+I hold a Masters's degree in Artificial Intelligence, where I delved into the fascinating world of AI and honed my skills in machine learning, natural language processing, and computer vision.
 
 💻 Data Visualization Enthusiast:
-One of my true passions is data visualization. I'm proficient in Python and love transforming raw data into beautiful and insightful visualizations. From interactive plots to compelling dashboards, I enjoy using various libraries and tools to bring data to life and help others make data-driven decisions.
+One of my true passions is data visualization. I'm proficient in Python and love transforming raw data into beautiful and insightful visualizations. From interactive plots to compelling dashboards,
 
 🚀 What I'm Currently Working On:
 I'm continuously seeking opportunities to combine my AI expertise with my passion for data visualization. Exploring innovative ways to merge these domains not only makes projects more engaging but also enhances data understanding and decision-making.
